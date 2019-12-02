@@ -4,3 +4,4 @@ Build/
 # ignore all vs proj and sln files
 
 *.vcxproj
+*.vs/
